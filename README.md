@@ -1,5 +1,6 @@
 <img src="src/index.png"/>
 
+---
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=MGNG13&theme=dracula&show_icons=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MGNG13&theme=dracula&show_icons=true&layout=compact" /> |
 | ------------- | ------------- |
 
