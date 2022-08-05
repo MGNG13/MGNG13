@@ -15,8 +15,8 @@ I am a self-taught person who likes to learn everything about computers, network
 
 ---
 
+***I have experience with***
+
 <br>
-<center>
-    <img src="https://skillicons.dev/icons?i=js,java,androidstudio,python,firebase,bash,flask" />
-    <img src="https://skillicons.dev/icons?i=linux,markdown,mongodb,react,stackoverflow,vscode,docker" />
-</center>
+<img src="https://skillicons.dev/icons?i=js,java,androidstudio,python,firebase,bash,flask" />
+<img src="https://skillicons.dev/icons?i=linux,markdown,mongodb,react,stackoverflow,vscode,docker" />
