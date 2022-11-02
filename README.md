@@ -1,5 +1,3 @@
-<div align="center"><img src="src/logo.png" style="width:429px;"></div>
-
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=MGNG13&theme=dracula&show_icons=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MGNG13&theme=dracula&show_icons=true&layout=compact" /> |
 | ------------- | ------------- |
 
