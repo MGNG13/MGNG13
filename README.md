@@ -14,3 +14,6 @@ Soy un programador fullstack experto en Java enfocado tanto al desarrollo de app
 
 <img src="https://skillicons.dev/icons?i=js,java,androidstudio,python,firebase,bash,flask" />
 <img src="https://skillicons.dev/icons?i=linux,markdown,mongodb,react,stackoverflow,vscode,docker" />
+
+## Mi portafolio
+<a href="https://mgng13.github.io/MiPortafolio/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/MGNG13/MGNG13/main/portafolio.jpg" alt="miportafolio"/></a>
