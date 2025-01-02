@@ -3,6 +3,8 @@
 
 # Acerca de mí
 
+<a href="https://profile.indeed.com/p/magnusolafn-f6d52v2"><code>Mi CV</code></a>
+
 👋Hola!
 
 Soy una persona autodidacta a la que le gusta aprender todo sobre informática, redes y todas las tecnologías actuales. 🤓
