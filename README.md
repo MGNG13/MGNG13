@@ -17,3 +17,6 @@ Soy un programador fullstack experto en Java enfocado tanto al desarrollo de app
 
 ## Mi portafolio
 <a href="https://mgng13.github.io/MiPortafolio/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/MGNG13/MGNG13/main/portafolio.jpg" alt="miportafolio"/></a>
+
+## Google Play
+<a href="https://play.google.com/store/apps/dev?id=4929811000888101242" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/MGNG13/MGNG13/main/googleplay.png" alt="miportafolio"/></a>
