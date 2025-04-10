@@ -6,7 +6,7 @@
 
 Soy una persona autodidacta a la que le gusta aprender todo sobre informática, redes y todas las tecnologías actuales. 🤓
 
-🏃‍♂️ Hace 2 años empecé crear emprendimientos digitales de software y plataformas móviles teniendo éxito en todo el mundo.
+🏃‍♂️ Hace 3 años empecé crear emprendimientos digitales de software y plataformas móviles teniendo éxito en todo el mundo.
 Soy un programador fullstack experto en Java enfocado tanto al desarrollo de apps móviles como Node.JS, HBS, React.js, TypeScript, Frameworks web y muchísimo más!
 
 **Tengo experiencia con:**
