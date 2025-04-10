@@ -1,6 +1,6 @@
 # 🙌 Acerca de mí
 
-<a href="https://profile.indeed.com/p/magnusolafn-f6d52v2"><code>Mi CV</code></a>
+# <a href="https://profile.indeed.com/p/magnusolafn-f6d52v2"><code>Mi CV</code></a>
 
 👋Hola!
 
