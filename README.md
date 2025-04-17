@@ -11,8 +11,7 @@ Soy un programador FullStack experto en Java, JavaScript enfocado tanto al desar
 
 <p align="center"><img src="https://skillicons.dev/icons?i=ae,ps,pr,figma,blender,linux,apple,arch,debian,mint,windows,unity,unreal,sublime,vscode,visualstudio,androidstudio,idea,atom,flask,django,express,fastapi,react,electron,wordpress,rust,cpp,cs,css,html,js,ts,npm,nodejs,php,java,gradle,kotlin,python,tensorflow,bash,flutter,dart,sqlite,mongodb,mysql,nginx,docker,firebase,gcp&perline=15&theme=light" /></p>
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=MGNG13&theme=light&show_icons=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MGNG13&theme=light&show_icons=true&layout=compact" /> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MGNG13&theme=light&show_icons=true&layout=compact" />
 
 ## 💼 Portafolio
 <a href="https://mgng13.github.io/MiPortafolio/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/MGNG13/MGNG13/main/portafolio.jpg" alt="miportafolio"/></a>
