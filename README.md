@@ -9,12 +9,8 @@ Soy un programador FullStack experto en Java, JavaScript enfocado tanto al desar
 
 **Tengo experiencia con**
 
-<p align="center"><img src="https://skillicons.dev/icons?i=ae,ps,pr,figma,blender,linux,apple,arch,debian,mint,windows,unity,unreal,sublime,vscode,visualstudio,androidstudio,idea,atom,flask,django,express,fastapi,react,electron,wordpress,rust,cpp,cs,css,html,js,ts,npm,nodejs,php,java,gradle,kotlin,python,tensorflow,bash,flutter,dart,sqlite,mongodb,mysql,nginx,docker,firebase,gcp&perline=15&theme=light" /></p>
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MGNG13&theme=light&show_icons=true" /> | <p align="center"><img src="https://skillicons.dev/icons?i=ae,ps,pr,figma,blender,linux,apple,arch,debian,mint,windows,unity,unreal,sublime,vscode,visualstudio,androidstudio,idea,atom,flask,django,express,fastapi,react,electron,wordpress,rust,cpp,cs,css,html,js,ts,npm,nodejs,php,java,gradle,kotlin,python,tensorflow,bash,flutter,dart,sqlite,mongodb,mysql,nginx,docker,firebase,gcp&perline=15&theme=light" /></p> |
+| ----- | ----- |
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MGNG13&theme=light&show_icons=true&layout=compact" />
-
-## 💼 Portafolio
+## Portafolio
 <a href="https://mgng13.github.io/MiPortafolio/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/MGNG13/MGNG13/main/portafolio.jpg" alt="miportafolio"/></a>
-
-## 🚀 Google Play
-<a href="https://play.google.com/store/apps/dev?id=4929811000888101242" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/MGNG13/MGNG13/main/googleplay.png" alt="miportafolio"/></a>
