@@ -20,7 +20,7 @@ Mi trayectoria combina lo técnico, lo creativo y lo industrial. Siempre busco o
 - 🎯 **Misión: transformar ideas en innovación real.**  
 Mi propósito es seguir creando tecnologías que impacten positivamente en los procesos empresariales, industriales y sociales. Busco conectar creatividad y código para desarrollar el futuro, una solución a la vez.
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MGNG13&theme=dark&show_icons=true" /> | <p align="center"><img src="https://skillicons.dev/icons?i=ae,ps,pr,figma,blender,linux,apple,arch,debian,mint,windows,unity,unreal,sublime,vscode,visualstudio,androidstudio,idea,atom,flask,django,express,fastapi,react,electron,wordpress,rust,cpp,cs,css,html,js,ts,npm,nodejs,php,java,gradle,kotlin,python,tensorflow,bash,flutter,dart,sqlite,mongodb,mysql,nginx,docker,firebase,gcp&perline=15&theme=dark" /></p> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MGNG13&theme=light&show_icons=true" /> | <p align="center"><img src="https://skillicons.dev/icons?i=ae,ps,pr,figma,blender,linux,apple,arch,debian,mint,windows,unity,unreal,sublime,vscode,visualstudio,androidstudio,idea,atom,flask,django,express,fastapi,react,electron,wordpress,rust,cpp,cs,css,html,js,ts,npm,nodejs,php,java,gradle,kotlin,python,tensorflow,bash,flutter,dart,sqlite,mongodb,mysql,nginx,docker,firebase,gcp&perline=15&theme=light" /></p> |
 | ----- | ----- |
 
 ### 🌟 Mi portafolio como Freelancer Software Developer & Graphic Designer
