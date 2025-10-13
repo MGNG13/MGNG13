@@ -25,3 +25,5 @@ Mi propósito es seguir creando tecnologías que impacten positivamente en los p
 
 ### 🌟 Mi portafolio como Freelancer Software Developer & Graphic Designer
 <a href="https://mgng13.github.io/MiPortafolio/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/MGNG13/MGNG13/main/portafolio.jpg" alt="miportafolio"/></a>
+<a href="https://web.archive.org/web/20211226031715/https://fiverr.com/bartgraphics" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/MGNG13/MGNG13/main/fiverr.png" alt="miportafolio"/></a>
+<small style="width: 100%; display: block; text-align: center;">Haz click en cada imágen para abrir las previas.</small>
