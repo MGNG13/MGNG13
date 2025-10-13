@@ -1,4 +1,5 @@
 # 🙌 Acerca de mí
+<a href="https://mgng13.github.io/MiPortafolio/vitae.html">Mi CV :).</a>
 
 **👋 ¡Hola! Soy un apasionado de la tecnología, creativo por naturaleza y con una fuerte vocación emprendedora.**
 
