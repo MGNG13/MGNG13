@@ -1,5 +1,4 @@
-# 🙌 Acerca de mí
-<a href="https://mgng13.github.io/MiPortafolio/vitae.html">Mi CV :).</a>
+<h1><a href="https://mgng13.github.io/MiPortafolio/vitae.html">🙌 Acerca de mí</a></h1>
 
 **👋 ¡Hola! Soy un apasionado de la tecnología, creativo por naturaleza y con una fuerte vocación emprendedora.**
 
@@ -21,7 +20,7 @@ Mi trayectoria combina lo técnico, lo creativo y lo industrial. Siempre busco o
 - 🎯 **Misión: transformar ideas en innovación real.**  
 Mi propósito es seguir creando tecnologías que impacten positivamente en los procesos empresariales, industriales y sociales. Busco conectar creatividad y código para desarrollar el futuro, una solución a la vez.
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MGNG13&show_icons=true&layout=donut-vertical" /> | <p align="center"><img src="https://skillicons.dev/icons?i=actix,ae,androidstudio,apple,arch,arduino,astro,atom,aws,babel,bash,blender,bootstrap,bun,c,cloudflare,cmake,cpp,cs,css,dart,debian,deno,django,docker,dotnet,electron,express,fastapi,figma,firebase,flask,flutter,fortran,gcp,git,go,gradle,graphql,haskell,html,idea,java,js,kali,kotlin,kubernetes,linux,lua,maven,md,mint,mongodb,mysql,nextjs,nginx,nodejs,npm,opencv,perl,php,postgres,postman,powershell,pr,ps,python,raspberrypi,react,redis,regex,ruby,rust,sqlite,sublime,supabase,swift,tensorflow,ts,ubuntu,unity,unreal,visualstudio,vscode,wasm,webpack,windows,wordpress&perline=15&theme=light" /></p> |
+| ![Github Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MGNG13&layout=compact) | <p align="center"><img src="https://skillicons.dev/icons?i=actix,ae,androidstudio,apple,arch,arduino,astro,atom,aws,babel,bash,blender,bootstrap,bun,c,cloudflare,cmake,cpp,cs,css,dart,debian,deno,django,docker,dotnet,electron,express,fastapi,figma,firebase,flask,flutter,fortran,gcp,git,go,gradle,graphql,haskell,html,idea,java,js,kali,kotlin,kubernetes,linux,lua,maven,md,mint,mongodb,mysql,nextjs,nginx,nodejs,npm,opencv,perl,php,postgres,postman,powershell,pr,ps,python,raspberrypi,react,redis,regex,ruby,rust,sqlite,sublime,supabase,swift,tensorflow,ts,ubuntu,unity,unreal,visualstudio,vscode,wasm,webpack,windows,wordpress&perline=15&theme=light" /></p> |
 | ----- | ----- |
 
 ### 🌟 Mi portafolio como Freelancer Software Developer & Graphic Designer
