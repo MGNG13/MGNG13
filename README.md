@@ -23,7 +23,6 @@ Mi propósito es seguir creando tecnologías que impacten positivamente en los p
 | ![Github Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MGNG13&layout=compact) | <p align="center"><img src="https://skillicons.dev/icons?i=actix,ae,androidstudio,apple,arch,arduino,astro,atom,aws,babel,bash,blender,bootstrap,bun,c,cloudflare,cmake,cpp,cs,css,dart,debian,deno,django,docker,dotnet,electron,express,fastapi,figma,firebase,flask,flutter,fortran,gcp,git,go,gradle,graphql,haskell,html,idea,java,js,kali,kotlin,kubernetes,linux,lua,maven,md,mint,mongodb,mysql,nextjs,nginx,nodejs,npm,opencv,perl,php,postgres,postman,powershell,pr,ps,python,raspberrypi,react,redis,regex,ruby,rust,sqlite,sublime,supabase,swift,tensorflow,ts,ubuntu,unity,unreal,visualstudio,vscode,wasm,webpack,windows,wordpress&perline=15&theme=light" /></p> |
 | ----- | ----- |
 
-### 🌟 Mi portafolio como Freelancer Software Developer & Graphic Designer
+## 🌟 Mi portafolio como Freelancer Software Developer & Graphic Designer
 <a href="https://mgng13.github.io/MiPortafolio/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/MGNG13/MGNG13/main/portafolio.jpg" alt="miportafolio"/></a>
 <a href="https://web.archive.org/web/20211226031715/https://fiverr.com/bartgraphics" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/MGNG13/MGNG13/main/fiverr.png" alt="miportafolio"/></a>
-<small style="width: 100%; display: block; text-align: center;">Haz click en cada imágen para abrir las previas.</small>
