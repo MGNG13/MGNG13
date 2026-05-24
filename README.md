@@ -1,4 +1,4 @@
-<h1><a href="https://mgng13.github.io/MiPortafolio/vitae.html">🙌 Acerca de mí</a></h1>
+<h1>🙌 Acerca de mí</h1>
 
 **👋 ¡Hola! Soy un apasionado de la tecnología, creativo por naturaleza y con una fuerte vocación emprendedora.**
 
