@@ -14,5 +14,3 @@ Llevo más de 3 años liderando proyectos de software con proyección internacio
 
 
 <a href="https://mgng13.github.io/MiPortafolio/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/MGNG13/MGNG13/main/MAGNUS_NORGAARD_WEBSITE.png" alt="miportafolio"/></a>
-
-<p align="center"><img src="https://skillicons.dev/icons?i=actix,ae,androidstudio,apple,arch,arduino,astro,atom,aws,babel,bash,blender,bootstrap,bun,c,cloudflare,cmake,cpp,cs,css,dart,debian,deno,django,docker,dotnet,electron,express,fastapi,figma,firebase,flask,flutter,fortran,gcp,git,go,gradle,graphql,haskell,html,idea,java,js,kali,kotlin,kubernetes,linux,lua,maven,md,mint,mongodb,mysql,nextjs,nginx,nodejs,npm,opencv,perl,php,postgres,postman,powershell,pr,ps,python,raspberrypi,react,redis,regex,ruby,rust,sqlite,sublime,supabase,swift,tensorflow,ts,ubuntu,unity,unreal,visualstudio,vscode,wasm,webpack,windows,wordpress&perline=15&theme=light" /></p>
