@@ -1,1 +1,0 @@
-<a href="https://mgng13.github.io/MiPortafolio/" target="_blank" rel="noopener noreferrer"><img style="width: 100%;" src="https://raw.githubusercontent.com/MGNG13/MiPortafolio/main/public/fiverr.png" alt="miportafolio"/></a>
